@@ -1,0 +1,29 @@
+{
+  "name": "poker-tracker-visuals",
+  "description": "pokerstars hand db and visualisations",
+  "main": "index.js",
+  "authors": [
+    "dni"
+  ],
+  "license": "ISC",
+  "keywords": [
+    "poker",
+    "pokerdb",
+    "pokerdatabase",
+    "pokerhand",
+    "tracker",
+    "poker",
+    "visuals"
+  ],
+  "homepage": "https://github.com/dni/poker-tracker-visuals",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "dcjs": "^1.7.5"
+  }
+}
